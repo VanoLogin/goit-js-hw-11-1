@@ -123,6 +123,7 @@ function fetchPictures() {
 //   galleryContainer: document.querySelector('.gallery'),
 //   loadBtn: document.querySelector('.load-more'),
 //   cssLoading: document.querySelector('.loader-container'),
+  
 // };
 
 // const queryParams = {
@@ -214,4 +215,5 @@ function fetchPictures() {
 //     return false;
 //   }
 // }
+
 
